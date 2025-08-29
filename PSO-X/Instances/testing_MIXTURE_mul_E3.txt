@@ -1,0 +1,14 @@
+--competition 3 --problem 12 --dimensions 50 --evaluations -3
+--competition 3 --problem 13 --dimensions 50 --evaluations -3
+--competition 3 --problem 14 --dimensions 50 --evaluations -3
+--competition 3 --problem 15 --dimensions 50 --evaluations -3
+--competition 3 --problem 16 --dimensions 50 --evaluations -3
+--competition 3 --problem 17 --dimensions 50 --evaluations -3
+--competition 3 --problem 18 --dimensions 50 --evaluations -3
+--competition 3 --problem 19 --dimensions 50 --evaluations -3
+--competition 3 --problem 20 --dimensions 50 --evaluations -3
+--competition 3 --problem 21 --dimensions 50 --evaluations -3
+--competition 3 --problem 22 --dimensions 50 --evaluations -3
+--competition 3 --problem 23 --dimensions 50 --evaluations -3
+--competition 3 --problem 24 --dimensions 50 --evaluations -3
+--competition 3 --problem 25 --dimensions 50 --evaluations -3

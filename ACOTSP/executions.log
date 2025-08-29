@@ -1,0 +1,267 @@
+nohup: ignoring input
+Total number of scenarios: 80
+
+Maximum number of simultaneous executions: 2
+
+Number of threads for each scenario: 8
+
+Executing scenarios...
+
+Scenary 2 ready (path=Scenarios/E1-BL-N/Runs/E1-BL-N_seed_198347562, seed=198347562)
+Scenario Scenarios/E1-BL-N/Runs/E1-BL-N_seed_198347562 completed (seed=198347562, run_id=2)
+
+Scenary 1 ready (path=Scenarios/E1-BL-N/Runs/E1-BL-N_seed_839201, seed=839201)
+Scenario Scenarios/E1-BL-N/Runs/E1-BL-N_seed_839201 completed (seed=839201, run_id=1)
+
+Scenary 3 ready (path=Scenarios/E1-BL-N/Runs/E1-BL-N_seed_2314, seed=2314)
+Scenario Scenarios/E1-BL-N/Runs/E1-BL-N_seed_2314 completed (seed=2314, run_id=3)
+
+Scenary 4 ready (path=Scenarios/E1-BL-N/Runs/E1-BL-N_seed_20250512, seed=20250512)
+Scenario Scenarios/E1-BL-N/Runs/E1-BL-N_seed_20250512 completed (seed=20250512, run_id=4)
+
+Scenary 5 ready (path=Scenarios/E1-BL-N/Runs/E1-BL-N_seed_42, seed=42)
+Scenario Scenarios/E1-BL-N/Runs/E1-BL-N_seed_42 completed (seed=42, run_id=5)
+
+Warning message:
+In checkScenario(scenario) : NAs introduced by coercion to integer range
+Scenary 6 ready (path=Scenarios/E1-BL-N/Runs/E1-BL-N_seed_9876543210, seed=9876543210)
+Scenario Scenarios/E1-BL-N/Runs/E1-BL-N_seed_9876543210 completed (seed=9876543210, run_id=6)
+
+Scenary 7 ready (path=Scenarios/E1-BL-N/Runs/E1-BL-N_seed_31415926, seed=31415926)
+Scenario Scenarios/E1-BL-N/Runs/E1-BL-N_seed_31415926 completed (seed=31415926, run_id=7)
+
+Scenary 8 ready (path=Scenarios/E1-BL-N/Runs/E1-BL-N_seed_123456789, seed=123456789)
+Scenario Scenarios/E1-BL-N/Runs/E1-BL-N_seed_123456789 completed (seed=123456789, run_id=8)
+
+Scenary 9 ready (path=Scenarios/E1-BL-N/Runs/E1-BL-N_seed_8675309, seed=8675309)
+Scenario Scenarios/E1-BL-N/Runs/E1-BL-N_seed_8675309 completed (seed=8675309, run_id=9)
+
+Warning message:
+In checkScenario(scenario) : NAs introduced by coercion to integer range
+Scenary 10 ready (path=Scenarios/E1-BL-N/Runs/E1-BL-N_seed_4040404040, seed=4040404040)
+Scenario Scenarios/E1-BL-N/Runs/E1-BL-N_seed_4040404040 completed (seed=4040404040, run_id=10)
+
+Scenary 11 ready (path=Scenarios/E1-BL-N/Runs/E1-BL-N_seed_27182818, seed=27182818)
+Scenario Scenarios/E1-BL-N/Runs/E1-BL-N_seed_27182818 completed (seed=27182818, run_id=11)
+
+Scenary 12 ready (path=Scenarios/E1-BL-N/Runs/E1-BL-N_seed_666999000, seed=666999000)
+Scenario Scenarios/E1-BL-N/Runs/E1-BL-N_seed_666999000 completed (seed=666999000, run_id=12)
+
+Scenary 13 ready (path=Scenarios/E1-BL-N/Runs/E1-BL-N_seed_909090909, seed=909090909)
+Scenario Scenarios/E1-BL-N/Runs/E1-BL-N_seed_909090909 completed (seed=909090909, run_id=13)
+
+Scenary 14 ready (path=Scenarios/E1-BL-N/Runs/E1-BL-N_seed_1357924680, seed=1357924680)
+Scenario Scenarios/E1-BL-N/Runs/E1-BL-N_seed_1357924680 completed (seed=1357924680, run_id=14)
+
+Scenary 15 ready (path=Scenarios/E1-BL-N/Runs/E1-BL-N_seed_777000777, seed=777000777)
+Scenario Scenarios/E1-BL-N/Runs/E1-BL-N_seed_777000777 completed (seed=777000777, run_id=15)
+
+Scenary 16 ready (path=Scenarios/E1-BL-N/Runs/E1-BL-N_seed_11235813, seed=11235813)
+Scenario Scenarios/E1-BL-N/Runs/E1-BL-N_seed_11235813 completed (seed=11235813, run_id=16)
+
+Scenary 17 ready (path=Scenarios/E1-BL-N/Runs/E1-BL-N_seed_600613007, seed=600613007)
+Scenario Scenarios/E1-BL-N/Runs/E1-BL-N_seed_600613007 completed (seed=600613007, run_id=17)
+
+Scenary 18 ready (path=Scenarios/E1-BL-N/Runs/E1-BL-N_seed_246813579, seed=246813579)
+Scenario Scenarios/E1-BL-N/Runs/E1-BL-N_seed_246813579 completed (seed=246813579, run_id=18)
+
+Scenary 19 ready (path=Scenarios/E1-BL-N/Runs/E1-BL-N_seed_999888777, seed=999888777)
+Scenario Scenarios/E1-BL-N/Runs/E1-BL-N_seed_999888777 completed (seed=999888777, run_id=19)
+
+Scenary 20 ready (path=Scenarios/E1-BL-N/Runs/E1-BL-N_seed_555666333, seed=555666333)
+Scenario Scenarios/E1-BL-N/Runs/E1-BL-N_seed_555666333 completed (seed=555666333, run_id=20)
+
+Scenary 2 ready (path=Scenarios/E2-BL-SR/Runs/E2-BL-SR_seed_198347562, seed=198347562)
+Scenario Scenarios/E2-BL-SR/Runs/E2-BL-SR_seed_198347562 completed (seed=198347562, run_id=2)
+
+Scenary 1 ready (path=Scenarios/E2-BL-SR/Runs/E2-BL-SR_seed_839201, seed=839201)
+Scenario Scenarios/E2-BL-SR/Runs/E2-BL-SR_seed_839201 completed (seed=839201, run_id=1)
+
+Scenary 3 ready (path=Scenarios/E2-BL-SR/Runs/E2-BL-SR_seed_2314, seed=2314)
+Scenario Scenarios/E2-BL-SR/Runs/E2-BL-SR_seed_2314 completed (seed=2314, run_id=3)
+
+Scenary 4 ready (path=Scenarios/E2-BL-SR/Runs/E2-BL-SR_seed_20250512, seed=20250512)
+Scenario Scenarios/E2-BL-SR/Runs/E2-BL-SR_seed_20250512 completed (seed=20250512, run_id=4)
+
+Scenary 5 ready (path=Scenarios/E2-BL-SR/Runs/E2-BL-SR_seed_42, seed=42)
+Scenario Scenarios/E2-BL-SR/Runs/E2-BL-SR_seed_42 completed (seed=42, run_id=5)
+
+Warning message:
+In checkScenario(scenario) : NAs introduced by coercion to integer range
+Scenary 6 ready (path=Scenarios/E2-BL-SR/Runs/E2-BL-SR_seed_9876543210, seed=9876543210)
+Scenario Scenarios/E2-BL-SR/Runs/E2-BL-SR_seed_9876543210 completed (seed=9876543210, run_id=6)
+
+Scenary 7 ready (path=Scenarios/E2-BL-SR/Runs/E2-BL-SR_seed_31415926, seed=31415926)
+Scenario Scenarios/E2-BL-SR/Runs/E2-BL-SR_seed_31415926 completed (seed=31415926, run_id=7)
+
+Scenary 8 ready (path=Scenarios/E2-BL-SR/Runs/E2-BL-SR_seed_123456789, seed=123456789)
+Scenario Scenarios/E2-BL-SR/Runs/E2-BL-SR_seed_123456789 completed (seed=123456789, run_id=8)
+
+Warning message:
+In checkScenario(scenario) : NAs introduced by coercion to integer range
+Scenary 10 ready (path=Scenarios/E2-BL-SR/Runs/E2-BL-SR_seed_4040404040, seed=4040404040)
+Scenario Scenarios/E2-BL-SR/Runs/E2-BL-SR_seed_4040404040 completed (seed=4040404040, run_id=10)
+
+Scenary 9 ready (path=Scenarios/E2-BL-SR/Runs/E2-BL-SR_seed_8675309, seed=8675309)
+Scenario Scenarios/E2-BL-SR/Runs/E2-BL-SR_seed_8675309 completed (seed=8675309, run_id=9)
+
+Scenary 11 ready (path=Scenarios/E2-BL-SR/Runs/E2-BL-SR_seed_27182818, seed=27182818)
+Scenario Scenarios/E2-BL-SR/Runs/E2-BL-SR_seed_27182818 completed (seed=27182818, run_id=11)
+
+Scenary 12 ready (path=Scenarios/E2-BL-SR/Runs/E2-BL-SR_seed_666999000, seed=666999000)
+Scenario Scenarios/E2-BL-SR/Runs/E2-BL-SR_seed_666999000 completed (seed=666999000, run_id=12)
+
+Scenary 13 ready (path=Scenarios/E2-BL-SR/Runs/E2-BL-SR_seed_909090909, seed=909090909)
+Scenario Scenarios/E2-BL-SR/Runs/E2-BL-SR_seed_909090909 completed (seed=909090909, run_id=13)
+
+Scenary 14 ready (path=Scenarios/E2-BL-SR/Runs/E2-BL-SR_seed_1357924680, seed=1357924680)
+Scenario Scenarios/E2-BL-SR/Runs/E2-BL-SR_seed_1357924680 completed (seed=1357924680, run_id=14)
+
+Scenary 15 ready (path=Scenarios/E2-BL-SR/Runs/E2-BL-SR_seed_777000777, seed=777000777)
+Scenario Scenarios/E2-BL-SR/Runs/E2-BL-SR_seed_777000777 completed (seed=777000777, run_id=15)
+
+Scenary 16 ready (path=Scenarios/E2-BL-SR/Runs/E2-BL-SR_seed_11235813, seed=11235813)
+Scenario Scenarios/E2-BL-SR/Runs/E2-BL-SR_seed_11235813 completed (seed=11235813, run_id=16)
+
+Scenary 17 ready (path=Scenarios/E2-BL-SR/Runs/E2-BL-SR_seed_600613007, seed=600613007)
+Scenario Scenarios/E2-BL-SR/Runs/E2-BL-SR_seed_600613007 completed (seed=600613007, run_id=17)
+
+Scenary 18 ready (path=Scenarios/E2-BL-SR/Runs/E2-BL-SR_seed_246813579, seed=246813579)
+Scenario Scenarios/E2-BL-SR/Runs/E2-BL-SR_seed_246813579 completed (seed=246813579, run_id=18)
+
+Scenary 20 ready (path=Scenarios/E2-BL-SR/Runs/E2-BL-SR_seed_555666333, seed=555666333)
+Scenario Scenarios/E2-BL-SR/Runs/E2-BL-SR_seed_555666333 completed (seed=555666333, run_id=20)
+
+Scenary 19 ready (path=Scenarios/E2-BL-SR/Runs/E2-BL-SR_seed_999888777, seed=999888777)
+Scenario Scenarios/E2-BL-SR/Runs/E2-BL-SR_seed_999888777 completed (seed=999888777, run_id=19)
+
+Scenary 1 ready (path=Scenarios/E3-BH-N/Runs/E3-BH-N_seed_839201, seed=839201)
+Scenario Scenarios/E3-BH-N/Runs/E3-BH-N_seed_839201 completed (seed=839201, run_id=1)
+
+Scenary 2 ready (path=Scenarios/E3-BH-N/Runs/E3-BH-N_seed_198347562, seed=198347562)
+Scenario Scenarios/E3-BH-N/Runs/E3-BH-N_seed_198347562 completed (seed=198347562, run_id=2)
+
+Scenary 4 ready (path=Scenarios/E3-BH-N/Runs/E3-BH-N_seed_20250512, seed=20250512)
+Scenario Scenarios/E3-BH-N/Runs/E3-BH-N_seed_20250512 completed (seed=20250512, run_id=4)
+
+Scenary 3 ready (path=Scenarios/E3-BH-N/Runs/E3-BH-N_seed_2314, seed=2314)
+Scenario Scenarios/E3-BH-N/Runs/E3-BH-N_seed_2314 completed (seed=2314, run_id=3)
+
+Scenary 5 ready (path=Scenarios/E3-BH-N/Runs/E3-BH-N_seed_42, seed=42)
+Scenario Scenarios/E3-BH-N/Runs/E3-BH-N_seed_42 completed (seed=42, run_id=5)
+
+Warning message:
+In checkScenario(scenario) : NAs introduced by coercion to integer range
+Scenary 6 ready (path=Scenarios/E3-BH-N/Runs/E3-BH-N_seed_9876543210, seed=9876543210)
+Scenario Scenarios/E3-BH-N/Runs/E3-BH-N_seed_9876543210 completed (seed=9876543210, run_id=6)
+
+Scenary 7 ready (path=Scenarios/E3-BH-N/Runs/E3-BH-N_seed_31415926, seed=31415926)
+Scenario Scenarios/E3-BH-N/Runs/E3-BH-N_seed_31415926 completed (seed=31415926, run_id=7)
+
+Scenary 8 ready (path=Scenarios/E3-BH-N/Runs/E3-BH-N_seed_123456789, seed=123456789)
+Scenario Scenarios/E3-BH-N/Runs/E3-BH-N_seed_123456789 completed (seed=123456789, run_id=8)
+
+Scenary 9 ready (path=Scenarios/E3-BH-N/Runs/E3-BH-N_seed_8675309, seed=8675309)
+Scenario Scenarios/E3-BH-N/Runs/E3-BH-N_seed_8675309 completed (seed=8675309, run_id=9)
+
+Warning message:
+In checkScenario(scenario) : NAs introduced by coercion to integer range
+Scenary 10 ready (path=Scenarios/E3-BH-N/Runs/E3-BH-N_seed_4040404040, seed=4040404040)
+Scenario Scenarios/E3-BH-N/Runs/E3-BH-N_seed_4040404040 completed (seed=4040404040, run_id=10)
+
+Scenary 11 ready (path=Scenarios/E3-BH-N/Runs/E3-BH-N_seed_27182818, seed=27182818)
+Scenario Scenarios/E3-BH-N/Runs/E3-BH-N_seed_27182818 completed (seed=27182818, run_id=11)
+
+Scenary 12 ready (path=Scenarios/E3-BH-N/Runs/E3-BH-N_seed_666999000, seed=666999000)
+Scenario Scenarios/E3-BH-N/Runs/E3-BH-N_seed_666999000 completed (seed=666999000, run_id=12)
+
+Scenary 13 ready (path=Scenarios/E3-BH-N/Runs/E3-BH-N_seed_909090909, seed=909090909)
+Scenario Scenarios/E3-BH-N/Runs/E3-BH-N_seed_909090909 completed (seed=909090909, run_id=13)
+
+Scenary 14 ready (path=Scenarios/E3-BH-N/Runs/E3-BH-N_seed_1357924680, seed=1357924680)
+Scenario Scenarios/E3-BH-N/Runs/E3-BH-N_seed_1357924680 completed (seed=1357924680, run_id=14)
+
+Scenary 15 ready (path=Scenarios/E3-BH-N/Runs/E3-BH-N_seed_777000777, seed=777000777)
+Scenario Scenarios/E3-BH-N/Runs/E3-BH-N_seed_777000777 completed (seed=777000777, run_id=15)
+
+Scenary 16 ready (path=Scenarios/E3-BH-N/Runs/E3-BH-N_seed_11235813, seed=11235813)
+Scenario Scenarios/E3-BH-N/Runs/E3-BH-N_seed_11235813 completed (seed=11235813, run_id=16)
+
+Scenary 17 ready (path=Scenarios/E3-BH-N/Runs/E3-BH-N_seed_600613007, seed=600613007)
+Scenario Scenarios/E3-BH-N/Runs/E3-BH-N_seed_600613007 completed (seed=600613007, run_id=17)
+
+Scenary 18 ready (path=Scenarios/E3-BH-N/Runs/E3-BH-N_seed_246813579, seed=246813579)
+Scenario Scenarios/E3-BH-N/Runs/E3-BH-N_seed_246813579 completed (seed=246813579, run_id=18)
+
+Scenary 19 ready (path=Scenarios/E3-BH-N/Runs/E3-BH-N_seed_999888777, seed=999888777)
+Scenario Scenarios/E3-BH-N/Runs/E3-BH-N_seed_999888777 completed (seed=999888777, run_id=19)
+
+Scenary 20 ready (path=Scenarios/E3-BH-N/Runs/E3-BH-N_seed_555666333, seed=555666333)
+Scenario Scenarios/E3-BH-N/Runs/E3-BH-N_seed_555666333 completed (seed=555666333, run_id=20)
+
+Scenary 1 ready (path=Scenarios/E4-BH-SR/Runs/E4-BH-SR_seed_839201, seed=839201)
+Scenario Scenarios/E4-BH-SR/Runs/E4-BH-SR_seed_839201 completed (seed=839201, run_id=1)
+
+Scenary 2 ready (path=Scenarios/E4-BH-SR/Runs/E4-BH-SR_seed_198347562, seed=198347562)
+Scenario Scenarios/E4-BH-SR/Runs/E4-BH-SR_seed_198347562 completed (seed=198347562, run_id=2)
+
+Scenary 4 ready (path=Scenarios/E4-BH-SR/Runs/E4-BH-SR_seed_20250512, seed=20250512)
+Scenario Scenarios/E4-BH-SR/Runs/E4-BH-SR_seed_20250512 completed (seed=20250512, run_id=4)
+
+Scenary 3 ready (path=Scenarios/E4-BH-SR/Runs/E4-BH-SR_seed_2314, seed=2314)
+Scenario Scenarios/E4-BH-SR/Runs/E4-BH-SR_seed_2314 completed (seed=2314, run_id=3)
+
+Warning message:
+In checkScenario(scenario) : NAs introduced by coercion to integer range
+Scenary 6 ready (path=Scenarios/E4-BH-SR/Runs/E4-BH-SR_seed_9876543210, seed=9876543210)
+Scenario Scenarios/E4-BH-SR/Runs/E4-BH-SR_seed_9876543210 completed (seed=9876543210, run_id=6)
+
+Scenary 5 ready (path=Scenarios/E4-BH-SR/Runs/E4-BH-SR_seed_42, seed=42)
+Scenario Scenarios/E4-BH-SR/Runs/E4-BH-SR_seed_42 completed (seed=42, run_id=5)
+
+Scenary 7 ready (path=Scenarios/E4-BH-SR/Runs/E4-BH-SR_seed_31415926, seed=31415926)
+Scenario Scenarios/E4-BH-SR/Runs/E4-BH-SR_seed_31415926 completed (seed=31415926, run_id=7)
+
+Scenary 8 ready (path=Scenarios/E4-BH-SR/Runs/E4-BH-SR_seed_123456789, seed=123456789)
+Scenario Scenarios/E4-BH-SR/Runs/E4-BH-SR_seed_123456789 completed (seed=123456789, run_id=8)
+
+Warning message:
+In checkScenario(scenario) : NAs introduced by coercion to integer range
+Scenary 10 ready (path=Scenarios/E4-BH-SR/Runs/E4-BH-SR_seed_4040404040, seed=4040404040)
+Scenario Scenarios/E4-BH-SR/Runs/E4-BH-SR_seed_4040404040 completed (seed=4040404040, run_id=10)
+
+Scenary 9 ready (path=Scenarios/E4-BH-SR/Runs/E4-BH-SR_seed_8675309, seed=8675309)
+Scenario Scenarios/E4-BH-SR/Runs/E4-BH-SR_seed_8675309 completed (seed=8675309, run_id=9)
+
+Scenary 12 ready (path=Scenarios/E4-BH-SR/Runs/E4-BH-SR_seed_666999000, seed=666999000)
+Scenario Scenarios/E4-BH-SR/Runs/E4-BH-SR_seed_666999000 completed (seed=666999000, run_id=12)
+
+Scenary 11 ready (path=Scenarios/E4-BH-SR/Runs/E4-BH-SR_seed_27182818, seed=27182818)
+Scenario Scenarios/E4-BH-SR/Runs/E4-BH-SR_seed_27182818 completed (seed=27182818, run_id=11)
+
+Scenary 13 ready (path=Scenarios/E4-BH-SR/Runs/E4-BH-SR_seed_909090909, seed=909090909)
+Scenario Scenarios/E4-BH-SR/Runs/E4-BH-SR_seed_909090909 completed (seed=909090909, run_id=13)
+
+Scenary 14 ready (path=Scenarios/E4-BH-SR/Runs/E4-BH-SR_seed_1357924680, seed=1357924680)
+Scenario Scenarios/E4-BH-SR/Runs/E4-BH-SR_seed_1357924680 completed (seed=1357924680, run_id=14)
+
+Scenary 15 ready (path=Scenarios/E4-BH-SR/Runs/E4-BH-SR_seed_777000777, seed=777000777)
+Scenario Scenarios/E4-BH-SR/Runs/E4-BH-SR_seed_777000777 completed (seed=777000777, run_id=15)
+
+Scenary 16 ready (path=Scenarios/E4-BH-SR/Runs/E4-BH-SR_seed_11235813, seed=11235813)
+Scenario Scenarios/E4-BH-SR/Runs/E4-BH-SR_seed_11235813 completed (seed=11235813, run_id=16)
+
+Scenary 17 ready (path=Scenarios/E4-BH-SR/Runs/E4-BH-SR_seed_600613007, seed=600613007)
+Scenario Scenarios/E4-BH-SR/Runs/E4-BH-SR_seed_600613007 completed (seed=600613007, run_id=17)
+
+Scenary 18 ready (path=Scenarios/E4-BH-SR/Runs/E4-BH-SR_seed_246813579, seed=246813579)
+Scenario Scenarios/E4-BH-SR/Runs/E4-BH-SR_seed_246813579 completed (seed=246813579, run_id=18)
+
+Scenary 19 ready (path=Scenarios/E4-BH-SR/Runs/E4-BH-SR_seed_999888777, seed=999888777)
+Scenario Scenarios/E4-BH-SR/Runs/E4-BH-SR_seed_999888777 completed (seed=999888777, run_id=19)
+
+Scenary 20 ready (path=Scenarios/E4-BH-SR/Runs/E4-BH-SR_seed_555666333, seed=555666333)
+Scenario Scenarios/E4-BH-SR/Runs/E4-BH-SR_seed_555666333 completed (seed=555666333, run_id=20)
+
+All scenarios executed successfully.
+

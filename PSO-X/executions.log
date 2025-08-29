@@ -1,0 +1,17 @@
+nohup: ignoring input
+Total number of scenarios: 2
+
+Maximum number of simultaneous executions: 1
+
+Number of threads for each scenario: 10
+
+Executing scenarios...
+
+Scenary 1 ready (path=Scenarios/E9-BL-Unimodal-N/Runs/E9-BL-Unimodal-N_seed_731073107, seed=731073107)
+Scenario Scenarios/E9-BL-Unimodal-N/Runs/E9-BL-Unimodal-N_seed_731073107 completed (seed=731073107, run_id=1)
+
+Scenary 1 ready (path=Scenarios/E10-BL-Unimodal-SR/Runs/E10-BL-Unimodal-SR_seed_731073107, seed=731073107)
+Scenario Scenarios/E10-BL-Unimodal-SR/Runs/E10-BL-Unimodal-SR_seed_731073107 completed (seed=731073107, run_id=1)
+
+All scenarios executed successfully.
+
