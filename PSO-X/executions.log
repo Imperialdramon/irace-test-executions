@@ -1,5 +1,5 @@
 nohup: ignoring input
-Total number of scenarios: 2
+Total number of scenarios: 4
 
 Maximum number of simultaneous executions: 1
 
@@ -7,11 +7,17 @@ Number of threads for each scenario: 10
 
 Executing scenarios...
 
-Scenary 1 ready (path=Scenarios/E9-BL-Unimodal-N/Runs/E9-BL-Unimodal-N_seed_731073107, seed=731073107)
-Scenario Scenarios/E9-BL-Unimodal-N/Runs/E9-BL-Unimodal-N_seed_731073107 completed (seed=731073107, run_id=1)
+Scenary 1 ready (path=Scenarios/BH-Mixed-32/Runs/BH-Mixed-32_seed_839201, seed=839201)
+Scenario Scenarios/BH-Mixed-32/Runs/BH-Mixed-32_seed_839201 completed (seed=839201, run_id=1)
 
-Scenary 1 ready (path=Scenarios/E10-BL-Unimodal-SR/Runs/E10-BL-Unimodal-SR_seed_731073107, seed=731073107)
-Scenario Scenarios/E10-BL-Unimodal-SR/Runs/E10-BL-Unimodal-SR_seed_731073107 completed (seed=731073107, run_id=1)
+Scenary 2 ready (path=Scenarios/BH-Mixed-32/Runs/BH-Mixed-32_seed_198347562, seed=198347562)
+Scenario Scenarios/BH-Mixed-32/Runs/BH-Mixed-32_seed_198347562 completed (seed=198347562, run_id=2)
+
+Scenary 1 ready (path=Scenarios/BH-Mixed-65/Runs/BH-Mixed-65_seed_839201, seed=839201)
+Scenario Scenarios/BH-Mixed-65/Runs/BH-Mixed-65_seed_839201 completed (seed=839201, run_id=1)
+
+Scenary 2 ready (path=Scenarios/BH-Mixed-65/Runs/BH-Mixed-65_seed_198347562, seed=198347562)
+Scenario Scenarios/BH-Mixed-65/Runs/BH-Mixed-65_seed_198347562 completed (seed=198347562, run_id=2)
 
 All scenarios executed successfully.
 
