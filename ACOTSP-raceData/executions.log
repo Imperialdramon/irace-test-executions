@@ -1,0 +1,43 @@
+nohup: ignoring input
+Total number of scenarios: 8
+
+Maximum number of simultaneous executions: 2
+
+Number of threads for each scenario: 10
+
+Executing scenarios...
+
+Scenary 1 ready (path=Scenarios/BL-22/Runs/BL-22_seed_2314, seed=2314)
+Scenario Scenarios/BL-22/Runs/BL-22_seed_2314 completed (seed=2314, run_id=1)
+
+Warning message:
+In checkScenario(scenario) : NAs introduced by coercion to integer range
+Scenary 2 ready (path=Scenarios/BL-22/Runs/BL-22_seed_9876543210, seed=9876543210)
+Scenario Scenarios/BL-22/Runs/BL-22_seed_9876543210 completed (seed=9876543210, run_id=2)
+
+Scenary 1 ready (path=Scenarios/BL-45/Runs/BL-45_seed_2314, seed=2314)
+Scenario Scenarios/BL-45/Runs/BL-45_seed_2314 completed (seed=2314, run_id=1)
+
+Warning message:
+In checkScenario(scenario) : NAs introduced by coercion to integer range
+Scenary 2 ready (path=Scenarios/BL-45/Runs/BL-45_seed_9876543210, seed=9876543210)
+Scenario Scenarios/BL-45/Runs/BL-45_seed_9876543210 completed (seed=9876543210, run_id=2)
+
+Scenary 1 ready (path=Scenarios/BH-45/Runs/BH-45_seed_2314, seed=2314)
+Scenario Scenarios/BH-45/Runs/BH-45_seed_2314 completed (seed=2314, run_id=1)
+
+Warning message:
+In checkScenario(scenario) : NAs introduced by coercion to integer range
+Scenary 2 ready (path=Scenarios/BH-45/Runs/BH-45_seed_9876543210, seed=9876543210)
+Scenario Scenarios/BH-45/Runs/BH-45_seed_9876543210 completed (seed=9876543210, run_id=2)
+
+Scenary 1 ready (path=Scenarios/BH-90/Runs/BH-90_seed_2314, seed=2314)
+Scenario Scenarios/BH-90/Runs/BH-90_seed_2314 completed (seed=2314, run_id=1)
+
+Warning message:
+In checkScenario(scenario) : NAs introduced by coercion to integer range
+Scenary 2 ready (path=Scenarios/BH-90/Runs/BH-90_seed_9876543210, seed=9876543210)
+Scenario Scenarios/BH-90/Runs/BH-90_seed_9876543210 completed (seed=9876543210, run_id=2)
+
+All scenarios executed successfully.
+
