@@ -1,0 +1,14 @@
+nohup: ignoring input
+Total number of scenarios: 1
+
+Maximum number of simultaneous executions: 1
+
+Number of threads for each scenario: 20
+
+Executing scenarios...
+
+Scenary 1 ready (path=Scenarios/BH-45/Runs/BH-45_seed_2314, seed=2314)
+Scenario Scenarios/BH-45/Runs/BH-45_seed_2314 completed (seed=2314, run_id=1)
+
+All scenarios executed successfully.
+
