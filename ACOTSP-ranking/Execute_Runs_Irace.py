@@ -36,7 +36,8 @@ directories = [
 
 # Random seeds for each combination
 seeds = [
-    2314,
+    #2314,
+    312649,
 ]
 
 # List to store data for each run
@@ -61,7 +62,7 @@ for base_dir, dest_dir, scenary_type in directories:
 # Total number of scenarios to run
 N = len(runs_data)  # Total number of scenarios
 K = 1           # Maximum number of simultaneous executions
-parallel = 20    # Number of threads for each scenario
+parallel = 10    # Number of threads for each scenario
 
 print(f"Total number of scenarios: {N}\n")
 print(f"Maximum number of simultaneous executions: {K}\n")
