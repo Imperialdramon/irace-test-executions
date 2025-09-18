@@ -34,12 +34,14 @@ directories = [
 #    ['Scenarios/BL-22/Base', 'Scenarios/BL-22/Runs', 'BL-22'],
 #    ['Scenarios/BL-45/Base', 'Scenarios/BL-45/Runs', 'BL-45'],
 #    ['Scenarios/BH-45/Base', 'Scenarios/BH-45/Runs', 'BH-45'],
-    ['Scenarios/BH-90/Base', 'Scenarios/BH-90/Runs', 'BH-90'],
+#    ['Scenarios/BH-90/Base', 'Scenarios/BH-90/Runs', 'BH-90'],
+    ['Scenarios/test/Base', 'Scenarios/test/Runs', 'test'],
 ]
 
 # Random seeds for each combination
 seeds = [
-    2314, 9876543210,
+    #2314, 9876543210,
+    1234345
 ]
 
 # List to store data for each run
@@ -63,7 +65,7 @@ for base_dir, dest_dir, scenary_type in directories:
 
 # Total number of scenarios to run
 N = len(runs_data)  # Total number of scenarios
-K = 2           # Maximum number of simultaneous executions
+K = 1           # Maximum number of simultaneous executions
 parallel = 10    # Number of threads for each scenario
 
 print(f"Total number of scenarios: {N}\n")

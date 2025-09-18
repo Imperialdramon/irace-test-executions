@@ -1,19 +1,14 @@
 nohup: ignoring input
-Total number of scenarios: 2
+Total number of scenarios: 1
 
-Maximum number of simultaneous executions: 2
+Maximum number of simultaneous executions: 1
 
 Number of threads for each scenario: 10
 
 Executing scenarios...
 
-Warning message:
-In checkScenario(scenario) : NAs introduced by coercion to integer range
-Scenary 2 ready (path=Scenarios/BH-90/Runs/BH-90_seed_9876543210, seed=9876543210)
-Scenario Scenarios/BH-90/Runs/BH-90_seed_9876543210 completed (seed=9876543210, run_id=2)
-
-Scenary 1 ready (path=Scenarios/BH-90/Runs/BH-90_seed_2314, seed=2314)
-Scenario Scenarios/BH-90/Runs/BH-90_seed_2314 completed (seed=2314, run_id=1)
+Scenary 1 ready (path=Scenarios/test/Runs/test_seed_1234345, seed=1234345)
+Scenario Scenarios/test/Runs/test_seed_1234345 completed (seed=1234345, run_id=1)
 
 All scenarios executed successfully.
 
