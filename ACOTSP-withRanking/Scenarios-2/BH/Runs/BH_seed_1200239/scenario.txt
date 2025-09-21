@@ -1,0 +1,23 @@
+###################################################### -*- mode: r -*- #####
+## Scenario setup for Iterated Race (irace).
+############################################################################
+
+## Directory where the programs will be run.
+targetRunner = "./target-runner"
+execDir = "./Results"
+parameterFile = "./parameters.txt"
+
+## Folder of instances
+trainInstancesDir = "../../../../TrainInstances"
+
+## The maximum number of runs (invocations of targetRunner) that will performed. It determines the (maximum) budget of experiments for the tuning.
+maxExperiments = 5500
+
+## Seed
+seed=1200239
+
+## Scenario ID
+#id_scenario=12
+
+## Number of threads
+parallel=10

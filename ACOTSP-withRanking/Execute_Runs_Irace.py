@@ -71,7 +71,7 @@ for base_dir, dest_dir, scenary_type in directories:
 
 # Total number of scenarios to run
 N = len(runs_data)  # Total number of scenarios
-K = 1           # Maximum number of simultaneous executions
+K = 2           # Maximum number of simultaneous executions
 parallel = 10    # Number of threads for each scenario
 
 print(f"Total number of scenarios: {N}\n")
