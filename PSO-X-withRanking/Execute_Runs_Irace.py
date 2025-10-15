@@ -31,13 +31,18 @@ def execute_scenario(path: str, seed: int, id_scenario: int, parallel: int = 1):
 
 # Directories for base scenarios, destination and scenario names
 directories = [
-    ['Scenarios/BH-Mixed-32/Base', 'Scenarios/BH-Mixed-32/Runs', 'BH-Mixed-32'],
-    ['Scenarios/BH-Mixed-65/Base', 'Scenarios/BH-Mixed-65/Runs', 'BH-Mixed-65'],
+    ['Scenarios/BL/Base', 'Scenarios/BL/Runs', 'BL'],
+    ['Scenarios/BL-32/Base', 'Scenarios/BL-32/Runs', 'BL-32'],
+    ['Scenarios/BH/Base', 'Scenarios/BH/Runs', 'BH'],
+    ['Scenarios/BH-65/Base', 'Scenarios/BH-64/Runs', 'BH-65'],
 ]
 
 # Random seeds for each combination
 seeds = [
-    839201, 198347562,
+    100003, 200009, 300017, 400031, 500057,
+    600083, 700099, 800123, 900149, 1000193,
+    1100211, 1200239, 1300277, 1400299, 1500311,
+    1600333, 1700359, 1800371, 1900393, 2000419
 ]
 
 # List to store data for each run
@@ -61,7 +66,7 @@ for base_dir, dest_dir, scenary_type in directories:
 
 # Total number of scenarios to run
 N = len(runs_data)  # Total number of scenarios
-K = 1           # Maximum number of simultaneous executions
+K = 2           # Maximum number of simultaneous executions
 parallel = 10    # Number of threads for each scenario
 
 print(f"Total number of scenarios: {N}\n")

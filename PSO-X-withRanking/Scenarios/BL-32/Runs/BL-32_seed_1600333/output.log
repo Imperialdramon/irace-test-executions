@@ -1,0 +1,370 @@
+# 2025-10-13 02:31:43 -03: Reading parameter file '/home/pestobar/Activities/irace-test-executions/PSO-X-withRanking/Scenarios/BL-32/Runs/BL-32_seed_1600333/parameters.txt'.
+# 2025-10-13 02:31:43 -03: 2 expression(s) specifying forbidden configurations read.
+# 2025-10-13 02:31:43 -03: Initialization
+# Elitist race
+# Elitist new instances: 1
+# Elitist limit: 2
+# nbIterations: 5
+# minNbSurvival: 5
+# nbParameters: 8
+# seed: 1600333
+# confidence level: 0.95
+# budget: 2000
+# mu: 5
+# deterministic: FALSE
+
+# 2025-10-13 02:31:43 -03: Iteration 1 of 5
+# experimentsUsed: 0
+# remainingBudget: 2000
+# currentBudget: 400
+# nbConfigurations: 32
+# Markers:
+     x No test is performed.
+     c Configurations are discarded only due to capping.
+     - The test is performed and some configurations are discarded.
+     = The test is performed but no configuration is discarded.
+     ! The test is performed and configurations could be discarded but elite configurations are preserved.
+     . All alive configurations are elite and nothing is discarded.
+
++-+-----------+-----------+-----------+----------------+-----------+--------+-----+----+------+
+| |   Instance|      Alive|       Best|       Mean best| Exp so far|  W time|  rho|KenW|  Qvar|
++-+-----------+-----------+-----------+----------------+-----------+--------+-----+----+------+
+|x|          1|         32|          5|    0.4839910390|         32|00:00:20|   NA|  NA|    NA|
+|x|          2|         32|         12|     51.39857477|         64|00:00:19|+0.62|0.81|0.3046|
+|x|          3|         32|         25|     101.0866519|         96|00:00:20|+0.61|0.74|0.2964|
+|x|          4|         32|         25|     91.41089149|        128|00:00:20|+0.63|0.72|0.2420|
+|-|          5|         12|         25|     2314539.181|        160|00:00:20|-0.14|0.09|1.0017|
+|=|          6|         12|         25|     1928934.389|        172|00:00:57|-0.09|0.09|0.9908|
+|=|          7|         12|         25|     1653373.593|        184|00:00:02|-0.03|0.11|0.9477|
++-+-----------+-----------+-----------+----------------+-----------+--------+-----+----+------+
+Best-so-far configuration:          25    mean value:      1653373.593
+Description of the best-so-far configuration:
+   .ID. particles topology modInfluence branching tSchedule phi1 phi2 inertia
+25   25        60        4            0        NA        NA 0.25 2.04    0.64
+   .PARENT.
+25       NA
+
+# 2025-10-13 02:34:24 -03: Elite configurations (first number is the configuration ID; listed from best to worst according to the sum of ranks):
+   particles topology modInfluence branching tSchedule phi1 phi2 inertia
+25        60        4            0        NA        NA 0.25 2.04    0.64
+17       172        5            0        NA        10 1.65 1.26    0.36
+19        23        4            1        NA        NA 1.03 1.88    0.58
+12       178        0            0        NA        NA 0.48 1.65    0.11
+20       147        4            2        NA        NA 1.34 2.20    0.47
+# 2025-10-13 02:34:24 -03: Iteration 2 of 5
+# experimentsUsed: 184
+# remainingBudget: 1816
+# currentBudget: 454
+# nbConfigurations: 32
+# Markers:
+     x No test is performed.
+     c Configurations are discarded only due to capping.
+     - The test is performed and some configurations are discarded.
+     = The test is performed but no configuration is discarded.
+     ! The test is performed and configurations could be discarded but elite configurations are preserved.
+     . All alive configurations are elite and nothing is discarded.
+
++-+-----------+-----------+-----------+----------------+-----------+--------+-----+----+------+
+| |   Instance|      Alive|       Best|       Mean best| Exp so far|  W time|  rho|KenW|  Qvar|
++-+-----------+-----------+-----------+----------------+-----------+--------+-----+----+------+
+|x|          8|         32|         52|     1.971332216|         32|00:00:04|   NA|  NA|    NA|
+|x|          3|         32|         39|     110.4676417|         59|00:00:04|+0.61|0.81|0.0646|
+|x|          2|         32|         25|     103.5183304|         86|00:00:04|+0.61|0.74|0.4233|
+|x|          1|         32|         39|     88.98746453|        113|00:00:03|+0.64|0.73|0.3571|
+|-|          5|         14|         39|     546970.1128|        140|00:00:04|-0.11|0.11|1.0006|
+|=|          4|         14|         47|     626511.4536|        149|00:00:01|-0.10|0.08|1.0089|
+|=|          7|         14|         19|     582520.6531|        158|00:00:01|-0.10|0.06|1.0098|
+|=|          6|         14|         56|     1206112.148|        167|00:00:29|-0.09|0.04|1.0193|
+|=|          9|         14|         19|     453230.2882|        181|00:00:56|-0.07|0.05|0.9850|
++-+-----------+-----------+-----------+----------------+-----------+--------+-----+----+------+
+Best-so-far configuration:          19    mean value:      453230.2882
+Description of the best-so-far configuration:
+   .ID. particles topology modInfluence branching tSchedule phi1 phi2 inertia
+19   19        23        4            1        NA        NA 1.03 1.88    0.58
+   .PARENT.
+19       NA
+
+# 2025-10-13 02:36:15 -03: Elite configurations (first number is the configuration ID; listed from best to worst according to the sum of ranks):
+   particles topology modInfluence branching tSchedule phi1 phi2 inertia
+19        23        4            1        NA        NA 1.03 1.88    0.58
+56       185        4            2        NA        NA 1.53 2.09    0.67
+47       176        0            0        NA        NA 0.06 2.01    0.42
+44        96        4            0        NA        NA 1.31 2.05    0.16
+17       172        5            0        NA        10 1.65 1.26    0.36
+# 2025-10-13 02:36:15 -03: Iteration 3 of 5
+# experimentsUsed: 365
+# remainingBudget: 1635
+# currentBudget: 545
+# nbConfigurations: 32
+# Markers:
+     x No test is performed.
+     c Configurations are discarded only due to capping.
+     - The test is performed and some configurations are discarded.
+     = The test is performed but no configuration is discarded.
+     ! The test is performed and configurations could be discarded but elite configurations are preserved.
+     . All alive configurations are elite and nothing is discarded.
+
++-+-----------+-----------+-----------+----------------+-----------+--------+-----+----+------+
+| |   Instance|      Alive|       Best|       Mean best| Exp so far|  W time|  rho|KenW|  Qvar|
++-+-----------+-----------+-----------+----------------+-----------+--------+-----+----+------+
+|x|         10|         32|         68|     7119.090722|         32|00:00:25|   NA|  NA|    NA|
+|x|          9|         32|         76|     3994.275714|         59|00:01:26|+0.14|0.57|0.0475|
+|x|          3|         32|         76|     2744.830951|         86|00:00:26|+0.41|0.61|0.0650|
+|x|          6|         32|         68|     2178.306115|        113|00:01:28|+0.41|0.55|0.0752|
+|-|          4|         19|         67|     1785.012607|        140|00:00:26|-0.05|0.16|0.9013|
+|=|          8|         19|         67|     1506.364463|        154|00:00:02|-0.11|0.07|1.0057|
+|=|          2|         19|         67|     1309.848548|        168|00:00:03|-0.06|0.09|0.9513|
+|=|          1|         19|         80|     1184.459666|        182|00:00:02|-0.06|0.07|0.9744|
+|=|          7|         19|         80|     1053.468675|        196|00:00:02|-0.05|0.07|0.9854|
+|=|          5|         19|         80|     2425342.133|        210|00:00:03|-0.04|0.06|0.9797|
+|=|         11|         19|         65|     830099.9195|        229|00:00:03|-0.04|0.05|0.9861|
++-+-----------+-----------+-----------+----------------+-----------+--------+-----+----+------+
+Best-so-far configuration:          65    mean value:      830099.9195
+Description of the best-so-far configuration:
+   .ID. particles topology modInfluence branching tSchedule phi1 phi2 inertia
+65   65       141        4            2        NA        NA 0.17    2    0.47
+   .PARENT.
+65       47
+
+# 2025-10-13 02:40:46 -03: Elite configurations (first number is the configuration ID; listed from best to worst according to the sum of ranks):
+   particles topology modInfluence branching tSchedule phi1 phi2 inertia
+65       141        4            2        NA        NA 0.17 2.00    0.47
+56       185        4            2        NA        NA 1.53 2.09    0.67
+66        36        4            1        NA        NA 2.05 2.11    0.61
+75        13        4            1        NA        NA 1.35 1.91    0.65
+77       156        5            0        NA         9 0.61 1.27    0.57
+# 2025-10-13 02:40:46 -03: Iteration 4 of 5
+# experimentsUsed: 594
+# remainingBudget: 1406
+# currentBudget: 703
+# nbConfigurations: 32
+# Markers:
+     x No test is performed.
+     c Configurations are discarded only due to capping.
+     - The test is performed and some configurations are discarded.
+     = The test is performed but no configuration is discarded.
+     ! The test is performed and configurations could be discarded but elite configurations are preserved.
+     . All alive configurations are elite and nothing is discarded.
+
++-+-----------+-----------+-----------+----------------+-----------+--------+-----+----+------+
+| |   Instance|      Alive|       Best|       Mean best| Exp so far|  W time|  rho|KenW|  Qvar|
++-+-----------+-----------+-----------+----------------+-----------+--------+-----+----+------+
+|x|         12|         32|        111|     205.7002646|         32|00:01:54|   NA|  NA|    NA|
+|x|          7|         32|         66|     133.3309533|         59|00:00:07|+0.01|0.50|0.2998|
+|x|          4|         32|         65|     99.19897422|         86|00:00:07|+0.21|0.47|0.3231|
+|x|         10|         32|         65|     1980.710123|        113|00:00:07|+0.32|0.49|0.2873|
+|-|          2|         21|        112|     1533.632607|        140|00:00:07|-0.03|0.18|0.8497|
+|=|         11|         21|        112|     1278.091462|        156|00:00:02|+0.01|0.17|0.8837|
+|=|          3|         21|        112|     1122.842159|        172|00:00:02|+0.06|0.19|0.8423|
+|=|          1|         21|        112|     982.8577193|        188|00:00:02|-0.02|0.11|0.8255|
+|=|          5|         21|        112|     1700877.232|        204|00:00:03|-0.04|0.07|0.8396|
+|=|          8|         21|        102|     717065.0090|        220|00:00:02|-0.04|0.06|0.8183|
+|=|          6|         21|        102|     651959.9308|        236|00:00:59|-0.01|0.09|0.8337|
+|=|          9|         21|        107|     276903.6304|        252|00:00:56|+0.01|0.09|0.8386|
+|=|         13|         21|        107|     255605.8485|        273|00:00:39|+0.00|0.08|0.8474|
++-+-----------+-----------+-----------+----------------+-----------+--------+-----+----+------+
+Best-so-far configuration:         107    mean value:      255605.8485
+Description of the best-so-far configuration:
+    .ID. particles topology modInfluence branching tSchedule phi1 phi2 inertia
+107  107        32        4            0        NA        NA 1.94 2.28    0.44
+    .PARENT.
+107       66
+
+# 2025-10-13 02:46:03 -03: Elite configurations (first number is the configuration ID; listed from best to worst according to the sum of ranks):
+    particles topology modInfluence branching tSchedule phi1 phi2 inertia
+107        32        4            0        NA        NA 1.94 2.28    0.44
+112       134        4            2        NA        NA 1.77 2.10    0.88
+111       134        4            0        NA        NA 0.57 2.09    0.42
+102       101        4            2        NA        NA 0.20 2.02    0.70
+66         36        4            1        NA        NA 2.05 2.11    0.61
+# 2025-10-13 02:46:03 -03: Iteration 5 of 5
+# experimentsUsed: 867
+# remainingBudget: 1133
+# currentBudget: 1133
+# nbConfigurations: 32
+# Markers:
+     x No test is performed.
+     c Configurations are discarded only due to capping.
+     - The test is performed and some configurations are discarded.
+     = The test is performed but no configuration is discarded.
+     ! The test is performed and configurations could be discarded but elite configurations are preserved.
+     . All alive configurations are elite and nothing is discarded.
+
++-+-----------+-----------+-----------+----------------+-----------+--------+-----+----+------+
+| |   Instance|      Alive|       Best|       Mean best| Exp so far|  W time|  rho|KenW|  Qvar|
++-+-----------+-----------+-----------+----------------+-----------+--------+-----+----+------+
+|x|         14|         32|        119|     62.22879406|         32|00:00:04|   NA|  NA|    NA|
+|x|          9|         32|        139|     277.5997801|         59|00:01:25|+0.27|0.64|0.8472|
+|x|          5|         32|        130|     495264.0719|         86|00:00:04|+0.36|0.58|0.8836|
+|x|          1|         32|        139|     503117.1783|        113|00:00:03|+0.39|0.54|0.8629|
+|=|         12|         32|        139|     402549.5180|        140|00:01:25|+0.08|0.27|0.9654|
+|=|         10|         32|        139|     336712.5434|        167|00:00:04|+0.00|0.17|0.9646|
+|=|          7|         32|        139|     288611.4592|        194|00:00:03|+0.05|0.19|0.9620|
+|-|          8|         15|        139|     252535.1541|        221|00:00:03|+0.11|0.22|0.8863|
+|=|         11|         15|        139|     224475.7665|        231|00:00:01|+0.04|0.14|0.9350|
+|=|         13|         15|        125|     590548.0595|        241|00:00:13|+0.03|0.13|0.9406|
+|=|          6|         15|        125|     536944.5111|        251|00:00:29|+0.04|0.12|0.9252|
+|=|          4|         15|        125|     492203.6617|        261|00:00:01|+0.01|0.09|0.9408|
+|=|          3|         15|        125|     454360.7630|        271|00:00:01|+0.02|0.09|0.9322|
+|=|          2|         15|        125|     421917.6799|        281|00:00:01|+0.02|0.09|0.9189|
+|=|         15|         15|        123|     203180.9390|        296|00:00:02|+0.04|0.10|0.9077|
++-+-----------+-----------+-----------+----------------+-----------+--------+-----+----+------+
+Best-so-far configuration:         123    mean value:      203180.9390
+Description of the best-so-far configuration:
+    .ID. particles topology modInfluence branching tSchedule phi1 phi2 inertia
+123  123        69        4            2        NA        NA 0.21 2.15    0.81
+    .PARENT.
+123      102
+
+# 2025-10-13 02:50:10 -03: Elite configurations (first number is the configuration ID; listed from best to worst according to the sum of ranks):
+    particles topology modInfluence branching tSchedule phi1 phi2 inertia
+123        69        4            2        NA        NA 0.21 2.15    0.81
+125        35        4            0        NA        NA 1.82 2.38    0.35
+112       134        4            2        NA        NA 1.77 2.10    0.88
+139        32        4            0        NA        NA 1.98 2.23    0.33
+102       101        4            2        NA        NA 0.20 2.02    0.70
+# 2025-10-13 02:50:10 -03: Iteration 6 of 6
+# experimentsUsed: 1163
+# remainingBudget: 837
+# currentBudget: 837
+# nbConfigurations: 32
+# Markers:
+     x No test is performed.
+     c Configurations are discarded only due to capping.
+     - The test is performed and some configurations are discarded.
+     = The test is performed but no configuration is discarded.
+     ! The test is performed and configurations could be discarded but elite configurations are preserved.
+     . All alive configurations are elite and nothing is discarded.
+
++-+-----------+-----------+-----------+----------------+-----------+--------+-----+----+------+
+| |   Instance|      Alive|       Best|       Mean best| Exp so far|  W time|  rho|KenW|  Qvar|
++-+-----------+-----------+-----------+----------------+-----------+--------+-----+----+------+
+|x|         16|         32|        161|     142.3014919|         32|00:00:06|   NA|  NA|    NA|
+|x|         12|         32|        102|     187.7892178|         59|00:01:26|+0.38|0.69|0.6608|
+|x|          7|         32|        102|     127.2557243|         86|00:00:04|-0.03|0.31|0.4495|
+|x|          1|         32|        102|     95.78921866|        113|00:00:03|+0.08|0.31|0.3352|
+|=|          4|         32|        152|     146.8599412|        140|00:00:04|+0.01|0.21|0.2673|
+|=|         13|         32|        161|     75.11968155|        167|00:00:39|+0.06|0.22|0.3591|
+|-|          5|         29|        123|     434089.6724|        194|00:00:04|-0.04|0.11|0.9934|
+|=|         10|         29|        102|     896307.4415|        218|00:00:04|-0.04|0.09|0.9958|
+|=|         15|         29|        102|     796722.0382|        242|00:00:04|-0.02|0.10|0.9884|
+|=|         11|         29|        102|     717049.8790|        266|00:00:04|-0.01|0.09|0.9676|
+|=|          6|         29|        102|     651946.1762|        290|00:01:28|-0.02|0.07|0.9582|
+|=|          8|         29|        102|     597618.5006|        314|00:00:03|-0.04|0.05|0.9703|
+|=|          3|         29|        123|     234397.8160|        338|00:00:03|-0.02|0.06|0.9478|
+|=|          2|         29|        163|     674782.5189|        362|00:00:04|-0.01|0.06|0.9305|
+|=|          9|         29|        163|     629829.4814|        386|00:01:25|-0.02|0.05|0.9461|
+|=|         14|         29|        123|     190493.2012|        410|00:00:04|-0.02|0.05|0.9255|
+|=|         17|         29|        123|     364421.8441|        439|00:00:04|-0.02|0.04|0.9422|
++-+-----------+-----------+-----------+----------------+-----------+--------+-----+----+------+
+Best-so-far configuration:         123    mean value:      364421.8441
+Description of the best-so-far configuration:
+    .ID. particles topology modInfluence branching tSchedule phi1 phi2 inertia
+123  123        69        4            2        NA        NA 0.21 2.15    0.81
+    .PARENT.
+123      102
+
+# 2025-10-13 02:56:08 -03: Elite configurations (first number is the configuration ID; listed from best to worst according to the sum of ranks):
+    particles topology modInfluence branching tSchedule phi1 phi2 inertia
+123        69        4            2        NA        NA 0.21 2.15    0.81
+163       145        4            2        NA        NA 1.69 2.32    0.85
+102       101        4            2        NA        NA 0.20 2.02    0.70
+167        38        4            0        NA        NA 1.90 2.30    0.30
+147        70        4            2        NA        NA 0.08 2.09    0.73
+# 2025-10-13 02:56:08 -03: Stopped because there is not enough budget to enforce the value of nbConfigurations.
+# Iteration: 7
+# nbIterations: 7
+# experimentsUsed: 1602
+# timeUsed: 0
+# remainingBudget: 398
+# currentBudget: 398
+# number of elites: 5
+# nbConfigurations: 26
+# Total CPU user time: 11220.24, CPU sys time: 69.655, Wall-clock time: 1465.003
+# 2025-10-13 02:56:08 -03: Starting post-selection:
+# Configurations selected: 123, 163, 102, 167, 147, 125, 112, 139, 107, 111, 66, 65, 56, 75, 77, 19.
+# Pending instances: 1, 1, 1, 1, 1, 1, 1, 1, 3, 3, 3, 5, 5, 5, 5, 7.
+# 2025-10-13 02:56:08 -03: seed: 1600333
+# Configurations: 16
+# Available experiments: 398
+# minSurvival: 1
+# Markers:
+     x No test is performed.
+     c Configurations are discarded only due to capping.
+     - The test is performed and some configurations are discarded.
+     = The test is performed but no configuration is discarded.
+     ! The test is performed and configurations could be discarded but elite configurations are preserved.
+     . All alive configurations are elite and nothing is discarded.
+
++-+-----------+-----------+-----------+----------------+-----------+--------+-----+----+------+
+| |   Instance|      Alive|       Best|       Mean best| Exp so far|  W time|  rho|KenW|  Qvar|
++-+-----------+-----------+-----------+----------------+-----------+--------+-----+----+------+
+|x|         15|         16|        163|     21.15694789|          5|00:00:01|   NA|  NA|    NA|
+|x|         17|         16|         56|     634447.5842|         13|00:00:01|-0.64|0.18|1.5074|
+|.|          2|         16|         56|     423038.3865|         13|00:00:00|-0.30|0.13|1.1981|
+|x|         12|         16|        111|     391850.3706|         14|00:00:28|-0.07|0.20|0.9717|
+|x|         16|         16|        111|     313512.4419|         22|00:00:01|+0.02|0.21|0.9398|
+|.|          4|         16|        111|     261267.5301|         22|00:00:00|+0.05|0.21|0.9165|
+|.|          3|         16|        111|     223971.2505|         22|00:00:00|+0.11|0.24|0.8617|
+|.|          5|         16|        111|     2481223.853|         22|00:00:00|+0.02|0.14|0.9430|
+|.|          7|         16|        111|     2205533.004|         22|00:00:00|-0.04|0.08|0.9812|
+|x|         13|         16|        123|     618627.2246|         23|00:00:13|-0.00|0.10|0.9539|
+|.|          9|         16|        123|     562432.5337|         23|00:00:00|-0.02|0.07|0.9425|
+|.|          8|         16|        123|     515563.9641|         23|00:00:00|-0.02|0.06|0.9517|
+|x|         14|         16|        123|     475914.3600|         28|00:00:01|+0.00|0.08|0.9345|
+|.|          1|         16|        123|     441920.5886|         28|00:00:00|+0.00|0.07|0.9443|
+|.|          6|         16|        123|     412519.9012|         28|00:00:00|+0.01|0.08|0.9490|
+|.|         11|         16|        123|     386737.4325|         28|00:00:00|-0.00|0.06|0.9504|
+|.|         10|         16|        123|     364421.8441|         28|00:00:00|-0.00|0.06|0.9384|
+|=|         18|         16|        123|     344177.7832|         44|00:00:03|+0.01|0.07|0.9217|
+|=|         19|         16|        125|     359371.1110|         60|00:00:18|+0.01|0.06|0.9238|
+|=|         20|         16|        125|     341403.8739|         76|00:00:02|+0.01|0.06|0.9221|
+|=|         21|         16|        125|     330039.6865|         92|00:00:02|-0.00|0.04|0.9298|
+|=|         22|         16|        125|     315039.2397|        108|00:00:27|+0.01|0.05|0.9187|
+|=|         23|         16|        125|     305278.9817|        124|00:00:02|+0.00|0.05|0.9175|
+|=|         24|         16|        125|     292559.0841|        140|00:00:02|+0.01|0.06|0.9081|
+|=|         25|         16|        125|     280878.1350|        156|00:00:58|+0.02|0.05|0.9110|
+|=|         26|         16|        125|     270485.9107|        172|00:00:02|+0.01|0.05|0.9193|
+|=|         27|         16|        125|     260501.7654|        188|00:00:58|+0.01|0.05|0.9178|
+|=|         28|         16|        125|     251198.2294|        204|00:00:02|+0.01|0.05|0.9217|
+|=|         29|         16|        125|     242570.8647|        220|00:00:35|+0.00|0.03|0.9273|
+|=|         30|         16|        125|     234485.1709|        236|00:00:02|+0.00|0.03|0.9246|
+|=|         31|         16|        125|     227445.3410|        252|00:00:03|+0.01|0.04|0.9208|
+|=|         32|         16|        125|     220341.4663|        268|00:00:02|+0.01|0.04|0.9213|
+|=|         33|         16|        125|     213665.8853|        284|00:00:04|+0.01|0.04|0.9178|
+|=|         34|         16|        125|     207381.9794|        300|00:00:02|+0.01|0.04|0.9215|
+|=|         35|         16|        125|     201938.9967|        316|00:00:03|+0.02|0.04|0.9160|
+|=|         36|         16|        125|     196341.5931|        332|00:00:57|+0.02|0.04|0.9140|
+|-|         37|         11|        125|     191060.7365|        348|00:01:04|-0.01|0.01|0.9016|
+|=|         38|         11|        125|     186047.2767|        359|00:00:56|-0.01|0.01|0.8999|
+|=|         39|         11|        125|     181280.3941|        370|00:00:02|-0.01|0.02|0.8943|
+|=|         40|         11|        125|     176752.5249|        381|00:00:03|-0.01|0.02|0.8918|
+|=|         41|         11|        125|     172441.9977|        392|00:00:02|-0.01|0.02|0.8939|
++-+-----------+-----------+-----------+----------------+-----------+--------+-----+----+------+
+Best-so-far configuration:         125    mean value:      172441.9977
+Description of the best-so-far configuration:
+    .ID. particles topology modInfluence branching tSchedule phi1 phi2 inertia
+125  125        35        4            0        NA        NA 1.82 2.38    0.35
+    .PARENT.
+125      107
+
+# 2025-10-13 03:04:01 -03: Elite configurations (first number is the configuration ID; listed from best to worst according to the sum of ranks):
+    particles topology modInfluence branching tSchedule phi1 phi2 inertia
+125        35        4            0        NA        NA 1.82 2.38    0.35
+123        69        4            2        NA        NA 0.21 2.15    0.81
+102       101        4            2        NA        NA 0.20 2.02    0.70
+107        32        4            0        NA        NA 1.94 2.28    0.44
+147        70        4            2        NA        NA 0.08 2.09    0.73
+# Total CPU user time: 14493.04, CPU sys time: 87.562, Wall-clock time: 1938.412
+    .ID. particles topology modInfluence branching tSchedule phi1 phi2 inertia
+125  125        35        4            0        NA        NA 1.82 2.38    0.35
+123  123        69        4            2        NA        NA 0.21 2.15    0.81
+102  102       101        4            2        NA        NA 0.20 2.02    0.70
+107  107        32        4            0        NA        NA 1.94 2.28    0.44
+147  147        70        4            2        NA        NA 0.08 2.09    0.73
+    .PARENT. .RANK.   .WEIGHT.
+125      107    219 0.33333333
+123      102    224 0.26666667
+102       65    232 0.20000000
+107       66    237 0.13333333
+147      123    241 0.06666667
