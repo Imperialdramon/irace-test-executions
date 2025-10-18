@@ -31,15 +31,23 @@ def execute_scenario(path: str, seed: int, id_scenario: int, parallel: int = 1):
 
 # Directories for base scenarios, destination and scenario names
 directories = [
-    ['Scenarios/BL-22/Base', 'Scenarios/BL-22/Runs', 'BL-22'],
-    ['Scenarios/BL-45/Base', 'Scenarios/BL-45/Runs', 'BL-45'],
-    ['Scenarios/BH-45/Base', 'Scenarios/BH-45/Runs', 'BH-45'],
-    ['Scenarios/BH-90/Base', 'Scenarios/BH-90/Runs', 'BH-90'],
+#    ['Scenarios/BL-22/Base', 'Scenarios/BL-22/Runs', 'BL-22'],
+#    ['Scenarios/BL-45/Base', 'Scenarios/BL-45/Runs', 'BL-45'],
+#    ['Scenarios/BH-45/Base', 'Scenarios/BH-45/Runs', 'BH-45'],
+#    ['Scenarios/BH-90/Base', 'Scenarios/BH-90/Runs', 'BH-90'],
+#    ['Scenarios/test/Base', 'Scenarios/test/Runs', 'test'],
+    ['Scenarios-2/BL-45/Base', 'Scenarios-2/BL-45/Runs', 'BL-45'],
+    ['Scenarios-2/BH-90/Base', 'Scenarios-2/BH-90/Runs', 'BH-90'],
+    ['Scenarios-2/BL/Base', 'Scenarios-2/BL/Runs', 'BL'],
+    ['Scenarios-2/BH/Base', 'Scenarios-2/BH/Runs', 'BH'],
 ]
 
 # Random seeds for each combination
 seeds = [
-    2314, 9876543210,
+    100003, 200009, 300017, 400031, 500057,
+    600083, 700099, 800123, 900149, 1000193,
+    1100211, 1200239, 1300277, 1400299, 1500311,
+    1600333, 1700359, 1800371, 1900393, 2000419
 ]
 
 # List to store data for each run
