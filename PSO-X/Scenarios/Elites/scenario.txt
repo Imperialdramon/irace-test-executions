@@ -21,7 +21,7 @@ testInstancesDir = ""
 
 ## File containing a list of test instances and optionally additional
 ## parameters for them.
-# testInstancesFile = "../../TestingInstances/test_MIXTURE.txt"
+testInstancesFile = "../../TestingInstances/test_MIXTURE.txt"
 
 ## Number of threads
 parallel=10
