@@ -1,0 +1,46 @@
+nohup: ignoring input
+
+======================================================================
+ELITE TESTING CONFIGURATION
+======================================================================
+Base directory:              Scenarios/Elites/Base
+Output directory:            Scenarios/Elites/Runs
+Scenario name:               Elites
+Configurations file:         configurations.txt
+Total number of runs:        20
+Maximum parallel Python:     2
+Parallel irace threads:      10
+Number of seeds:             20
+======================================================================
+
+Executing 20 elite testing runs...
+
+✓ Elite Testing Run 1 completed successfully (path=Scenarios/Elites/Runs/Elites_seed_100003, seed=100003)
+✓ Elite Testing Run 2 completed successfully (path=Scenarios/Elites/Runs/Elites_seed_200009, seed=200009)
+✓ Elite Testing Run 3 completed successfully (path=Scenarios/Elites/Runs/Elites_seed_300017, seed=300017)
+✓ Elite Testing Run 4 completed successfully (path=Scenarios/Elites/Runs/Elites_seed_400031, seed=400031)
+✓ Elite Testing Run 5 completed successfully (path=Scenarios/Elites/Runs/Elites_seed_500057, seed=500057)
+✓ Elite Testing Run 6 completed successfully (path=Scenarios/Elites/Runs/Elites_seed_600083, seed=600083)
+✓ Elite Testing Run 7 completed successfully (path=Scenarios/Elites/Runs/Elites_seed_700099, seed=700099)
+✓ Elite Testing Run 8 completed successfully (path=Scenarios/Elites/Runs/Elites_seed_800123, seed=800123)
+✓ Elite Testing Run 9 completed successfully (path=Scenarios/Elites/Runs/Elites_seed_900149, seed=900149)
+✓ Elite Testing Run 10 completed successfully (path=Scenarios/Elites/Runs/Elites_seed_1000193, seed=1000193)
+✓ Elite Testing Run 11 completed successfully (path=Scenarios/Elites/Runs/Elites_seed_1100211, seed=1100211)
+✓ Elite Testing Run 12 completed successfully (path=Scenarios/Elites/Runs/Elites_seed_1200239, seed=1200239)
+✓ Elite Testing Run 13 completed successfully (path=Scenarios/Elites/Runs/Elites_seed_1300277, seed=1300277)
+✓ Elite Testing Run 14 completed successfully (path=Scenarios/Elites/Runs/Elites_seed_1400299, seed=1400299)
+✓ Elite Testing Run 15 completed successfully (path=Scenarios/Elites/Runs/Elites_seed_1500311, seed=1500311)
+✓ Elite Testing Run 16 completed successfully (path=Scenarios/Elites/Runs/Elites_seed_1600333, seed=1600333)
+✓ Elite Testing Run 17 completed successfully (path=Scenarios/Elites/Runs/Elites_seed_1700359, seed=1700359)
+✓ Elite Testing Run 18 completed successfully (path=Scenarios/Elites/Runs/Elites_seed_1800371, seed=1800371)
+✓ Elite Testing Run 19 completed successfully (path=Scenarios/Elites/Runs/Elites_seed_1900393, seed=1900393)
+✓ Elite Testing Run 20 completed successfully (path=Scenarios/Elites/Runs/Elites_seed_2000419, seed=2000419)
+
+======================================================================
+EXECUTION SUMMARY
+======================================================================
+Total runs:        20
+Successful:        20
+Failed:            0
+======================================================================
+
