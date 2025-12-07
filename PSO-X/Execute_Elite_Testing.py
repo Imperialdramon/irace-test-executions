@@ -50,20 +50,20 @@ def main():
     parser.add_argument(
         "--base-dir",
         type=str,
-        default="Scenarios/Elites/Base",
-        help="Path to the base directory containing elite testing configuration (default: Scenarios/Elites/Base)"
+        default="Scenarios/Elites-2/Base",
+        help="Path to the base directory containing elite testing configuration (default: Scenarios/Elites-2/Base)"
     )
     parser.add_argument(
         "--output-dir",
         type=str,
-        default="Scenarios/Elites/Runs",
-        help="Path to the output directory where runs will be created (default: Scenarios/Elites/Runs)"
+        default="Scenarios/Elites-2/Runs",
+        help="Path to the output directory where runs will be created (default: Scenarios/Elites-2/Runs)"
     )
     parser.add_argument(
         "--scenario-name",
         type=str,
-        default="Elites",
-        help="Name of the scenario for naming runs (default: Elites)"
+        default="Elites-2",
+        help="Name of the scenario for naming runs (default: Elites-2)"
     )
     parser.add_argument(
         "--seeds",
