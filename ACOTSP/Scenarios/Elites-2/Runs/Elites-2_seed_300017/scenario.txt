@@ -8,29 +8,20 @@ execDir = "./Results"
 parameterFile = "./parameters.txt"
 
 ## Folder of instances
-trainInstancesDir = ""
-
-## File that contains a list of training instances and optionally
-## additional parameters for them. If trainInstancesDir is provided, irace
-## will search for the files in this folder.
-trainInstancesFile = "../../../../Instances/train_MIXTURE.txt"
+trainInstancesDir = "../../../../TrainInstances"
 
 ## Directory where testing instances are located, either absolute or relative
 ## to current directory.
-testInstancesDir = ""
-
-## File containing a list of test instances and optionally additional
-## parameters for them.
-testInstancesFile = "../../../../TestingInstances/test_MIXTURE.txt"
+testInstancesDir = "../../../../TestingInstances"
 
 ## The maximum number of runs (invocations of targetRunner) that will performed. It determines the (maximum) budget of experiments for the tuning.
 maxExperiments = 5500
 
 ## Run ID
-# run_id=8
+# run_id=3
 
 ## Seed
-seed=800123
+seed=300017
 
 ## Number of parallel threads for irace
 parallel=10

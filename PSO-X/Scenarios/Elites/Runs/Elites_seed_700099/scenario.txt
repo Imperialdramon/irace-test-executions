@@ -25,3 +25,12 @@ testInstancesFile = "../../../../TestingInstances/test_MIXTURE.txt"
 
 ## The maximum number of runs (invocations of targetRunner) that will performed. It determines the (maximum) budget of experiments for the tuning.
 maxExperiments = 5500
+
+## Run ID
+# run_id=7
+
+## Seed
+seed=700099
+
+## Number of parallel threads for irace
+parallel=10
